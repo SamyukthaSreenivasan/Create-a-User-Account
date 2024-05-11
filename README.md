@@ -21,7 +21,7 @@ sudo useradd -u 1326 alies
 ```
 
 ### OUTPUT:
-![image](https://github.com/SamyukthaSreenivasan/Create-a-User-Account/assets/119475703/dae67f37-dc2e-44c9-afc1-bc58138ac40f)
+![image](https://github.com/SamyukthaSreenivasan/Create-a-User-Account/assets/119475703/98c54ad0-b990-4421-b1c4-39966b6e0e9c)
 
 ### RESULT:
 
